@@ -1,0 +1,154 @@
+[
+  {
+    "id": "p-001",
+    "person": "Banco Aurora",
+    "category": "mensal",
+    "description": "Cartao de credito principal",
+    "amount": 1240,
+    "dueDay": 10,
+    "monthLabel": "Abril 2026",
+    "status": "pendente",
+    "note": "Usado para despesas fixas da casa"
+  },
+  {
+    "id": "p-002",
+    "person": "Nubank",
+    "category": "mensal",
+    "description": "Parcela de emprestimo",
+    "amount": 680,
+    "dueDay": 18,
+    "monthLabel": "Abril 2026",
+    "status": "pago"
+  },
+  {
+    "id": "p-003",
+    "person": "Carlos Henrique",
+    "category": "provisorio",
+    "description": "Pagamento combinado da reforma",
+    "amount": 420,
+    "dueDay": 20,
+    "monthLabel": "Abril 2026",
+    "status": "pendente",
+    "note": "Dividir em 2 partes se necessario"
+  },
+  {
+    "id": "p-004",
+    "person": "Mercadinho do Bairro",
+    "category": "temporario",
+    "description": "Compra rapida do fim de semana",
+    "amount": 87,
+    "dueDay": 12,
+    "monthLabel": "Abril 2026",
+    "status": "pendente"
+  },
+  {
+    "id": "p-005",
+    "person": "Transporte",
+    "category": "temporario",
+    "description": "Recarga emergencial",
+    "amount": 45,
+    "dueDay": 8,
+    "monthLabel": "Abril 2026",
+    "status": "pago"
+  },
+  {
+    "id": "p-006",
+    "person": "Banco Litoral",
+    "category": "mensal",
+    "description": "Financiamento do celular",
+    "amount": 220,
+    "dueDay": 6,
+    "monthLabel": "Abril 2026",
+    "status": "atrasado"
+  },
+  {
+    "id": "p-007",
+    "person": "Fernanda Souza",
+    "category": "provisorio",
+    "description": "Valor emprestado para emergencia",
+    "amount": 300,
+    "dueDay": 25,
+    "monthLabel": "Marco 2026",
+    "status": "pago"
+  },
+  {
+    "id": "p-008",
+    "person": "Energia",
+    "category": "mensal",
+    "description": "Conta de luz",
+    "amount": 190,
+    "dueDay": 11,
+    "monthLabel": "Marco 2026",
+    "status": "pago"
+  },
+  {
+    "id": "p-009",
+    "person": "Agua",
+    "category": "mensal",
+    "description": "Conta de agua",
+    "amount": 96,
+    "dueDay": 14,
+    "monthLabel": "Fevereiro 2026",
+    "status": "pago"
+  },
+  {
+    "id": "p-010",
+    "person": "Internet",
+    "category": "mensal",
+    "description": "Plano residencial",
+    "amount": 129,
+    "dueDay": 7,
+    "monthLabel": "Fevereiro 2026",
+    "status": "pago"
+  },
+  {
+    "id": "p-011",
+    "person": "Rafaela",
+    "category": "provisorio",
+    "description": "Devolucao de valor emprestado",
+    "amount": 250,
+    "dueDay": 21,
+    "monthLabel": "Janeiro 2026",
+    "status": "pago"
+  },
+  {
+    "id": "p-012",
+    "person": "Farmacia",
+    "category": "temporario",
+    "description": "Compra eventual",
+    "amount": 58,
+    "dueDay": 9,
+    "monthLabel": "Janeiro 2026",
+    "status": "pago"
+  },
+  {
+    "id": "p-013",
+    "person": "Combustivel",
+    "category": "temporario",
+    "description": "Abastecimento rapido",
+    "amount": 90,
+    "dueDay": 16,
+    "monthLabel": "Maio 2026",
+    "status": "pendente"
+  },
+  {
+    "id": "p-014",
+    "person": "Banco Horizonte",
+    "category": "mensal",
+    "description": "Fatura secundaria",
+    "amount": 510,
+    "dueDay": 19,
+    "monthLabel": "Junho 2026",
+    "status": "pendente"
+  },
+  {
+    "id": "p-015",
+    "person": "Leonardo",
+    "category": "provisorio",
+    "description": "Pagamento combinado",
+    "amount": 340,
+    "dueDay": 23,
+    "monthLabel": "Julho 2026",
+    "status": "pendente"
+  }
+]
